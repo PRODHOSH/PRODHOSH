@@ -27,7 +27,7 @@
 ---
 
 ### 🌐 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/prodhosh/)  
+- 🔗 [LinkedIn](www.linkedin.com/in/prodhosh-vs-b08723368)  
 - ✉️ Feel free to DM me for collabs, study sync-ups, or CP practice groups!
 
 ---
