@@ -19,7 +19,6 @@
 - 💻 [Rock Paper Scissors Game] A classic game built in C++
 - 🌍 HTML & CSS projects — Building landing pages and styling basics
 ### 📈 Goals
-- ⚔️ Reach **1200+ rating** on Codeforces  
 - 🧠 Master DSA in C++ before end of Year 1  
 - 📦 Start using Python for data analysis (Matplotlib, Seaborn, etc.)  
 - 🏆 Land a **Data Analyst Internship** by Summer 2026
