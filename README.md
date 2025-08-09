@@ -21,7 +21,7 @@
 ---
 
 ### 🧠 Fun Fact
-> Started my GitHub journey with “Hi Bro” in `std::cout` 😄 — now building projects, solving contests, and documenting it all here. Follow my growth!
+> Started my GitHub journey with “Hi Bro” in `std::cout` 😄 — now building projects,figuring out and documenting it all here. Follow my growth!
 
 ---
 
