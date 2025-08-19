@@ -1,52 +1,25 @@
-# 👋 Hey, I’m Prodhosh  
+# 💫 About Me:
+🔭 Currently working on my Portfolio Website <br>👯 Looking to collaborate on Open Source / AI / ML projects<br>🤝 Open to help with Python, C++ & beginner-friendly ML  <br>🌱 Currently learning Statistics, Mathematics for  Machine Learning <br>💬 Ask me about coding, productivity, or learning strategies  <br>⚡ Fun fact: I love math so much that I chose Data Science just to live in numbers😅!
 
-🎓 CSE Core @ VIT Chennai (2025–2029) | 📊 BS in Data Science @ IIT Madras  
-💡 Aspiring **Machine Learning Engineer / Data Scientist**  
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzprodhosh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Prodhosh V S](https://www.linkedin.com/in/prodhoshvs/)) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/ Prodhosh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prodhosh3@gmail.com) 
 
-## 🚀 About Me
-- 🔭 Currently working on **Python projects + Data Science mini-projects**  
-- 👯 Looking to collaborate on **Open Source / AI / ML projects**  
-- 🤝 Open to help with **Python, SQL & beginner-friendly ML**  
-- 🌱 Currently learning **DSA, Machine Learning, and Full-Stack basics**  
-- 💬 Ask me about **coding, productivity, or learning strategies**  
-- ⚡ Fun fact: I enjoy debugging more than writing code (yes, weird but true 🤓)  
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PRODHOSH&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PRODHOSH&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRODHOSH&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PRODHOSH&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PRODHOSH&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=PRODHOSH&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prodhosh&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prodhosh&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-</p>
-
----
-
-## 🎯 Current Goals
-- Crack **DSA & LeetCode** patterns 📚  
-- Publish **ML & Data Analysis projects** 🧠  
-- Prepare for **MS abroad in AI/Data Science** 🌍  
-
----
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/your-link)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Prodhosh)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-email@gmail.com)
-
----
-
-⭐️ From [Prodhosh](https://github.com/Prodhosh)
 
 
