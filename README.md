@@ -1,31 +1,52 @@
-# 👋 Hey there, I'm Prodhosh!
+# 👋 Hey, I’m Prodhosh  
 
-### 🧑‍💻 CS Freshman @ VIT Chennai (Class of 2029)  
-🎓 BS Data Science @ IIT Madras (Dual Degree)  
-🚀 Future Data Scientist | 💻 Aspiring ML Engineer 
-
-<img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ5cm9sMW5ndWFqOWF4dm9wODY4YWtmdDZmY3Q2cHRzZWtoZHJzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href = "https://www.python.org/" target = "_blank" rel = "noreferrer"><img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"alt="python" width="60" height="60"/></a> </p>
-
-## PRODHOSH STATS
-![Prodhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRODHOSH&show_icons=true&theme=transparent)
-
-
-### 🌐 Let's Connect
-- 🔗 [LinkedIn](www.linkedin.com/in/prodhosh-vs-b08723368)
-- 🔗 [Instagram](https://www.instagram.com/itzprodhosh/)
-- ✉️ Feel free to DM me for collabs or study sync-ups!
+🎓 CSE Core @ VIT Chennai (2025–2029) | 📊 BS in Data Science @ IIT Madras  
+💡 Aspiring **Machine Learning Engineer / Data Scientist**  
 
 ---
 
-### 🧠 Fun Fact
-> Started my GitHub journey with “Hello World!” in `std::cout` 😄 — now building projects,figuring out and documenting it all here. Follow my growth!
+## 🚀 About Me
+- 🔭 Currently working on **Python projects + Data Science mini-projects**  
+- 👯 Looking to collaborate on **Open Source / AI / ML projects**  
+- 🤝 Open to help with **Python, SQL & beginner-friendly ML**  
+- 🌱 Currently learning **DSA, Machine Learning, and Full-Stack basics**  
+- 💬 Ask me about **coding, productivity, or learning strategies**  
+- ⚡ Fun fact: I enjoy debugging more than writing code (yes, weird but true 🤓)  
 
 ---
 
-### ⭐ Let's Build in Public
-I'm just getting started — but every push, every commit, every repo tells a story.  
-**Follow, Fork, or just Star my repos** to stay connected — let's grow together 🚀
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prodhosh&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prodhosh&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+</p>
+
+---
+
+## 🎯 Current Goals
+- Crack **DSA & LeetCode** patterns 📚  
+- Publish **ML & Data Analysis projects** 🧠  
+- Prepare for **MS abroad in AI/Data Science** 🌍  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/your-link)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Prodhosh)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-email@gmail.com)
+
+---
+
+⭐️ From [Prodhosh](https://github.com/Prodhosh)
+
+
