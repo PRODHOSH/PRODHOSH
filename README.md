@@ -223,11 +223,6 @@ me.say_hi()
       </a>
     </td>
     <td align="center">
-      <a href="mailto:prodhosh3@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" />
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/PRODHOSH">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
       </a>
