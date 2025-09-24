@@ -8,7 +8,7 @@
 
 ### 🚀 *"I love math so much that I chose Data Science just to live in numbers!"* 😅
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="300">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300">
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 🌟 **About Me** 🌟
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ```python
 class DataScientist:
@@ -26,11 +26,9 @@ class DataScientist:
         self.language_spoken = ["Python", "C++", "JavaScript", "SQL"]
         self.current_focus = "Machine Learning & Statistics"
         self.fun_fact = "Living in numbers, dreaming in algorithms"
-        self.coffee_consumed = "∞"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
-        return "🚀 Ready to innovate!"
 
 me = DataScientist()
 me.say_hi()
@@ -102,112 +100,125 @@ me.say_hi()
 
 <div align="center">
 
-### **⚡ My Tech Stack ⚡**
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="250">
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+
+### **Data Science & ML**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white&labelColor=000000)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000)
+
+### **Web Technologies**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000)
+
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=000000)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+---
+
+## 🎮 **Coding Journey & Skills** 🎮
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="300">
+
+### **💪 Skill Progression**
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
+    <td align="center">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" height="100" />
+      <br>
+      <b>🐍 Python</b>
+      <br>
+      <progress value="90" max="100"></progress> 90%
     </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>C++
+    <td align="center">
+      <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" height="100" />
+      <br>
+      <b>⚡ C++</b>
+      <br>
+      <progress value="75" max="100"></progress> 75%
     </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
-      </a>
-      <br>CSS3
+    <td align="center">
+      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" height="100" />
+      <br>
+      <b>🌐 JavaScript</b>
+      <br>
+      <progress value="70" max="100"></progress> 70%
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
-      </a>
-      <br>TensorFlow
+    <td align="center">
+      <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100" height="100" />
+      <br>
+      <b>🤖 Machine Learning</b>
+      <br>
+      <progress value="80" max="100"></progress> 80%
     </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
-      </a>
-      <br>PyTorch
+    <td align="center">
+      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" height="100" />
+      <br>
+      <b>📊 Data Analysis</b>
+      <br>
+      <progress value="85" max="100"></progress> 85%
     </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=sklearn" width="65" height="65" alt="sklearn" />
-      </a>
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=opencv" width="65" height="65" alt="OpenCV" />
-      </a>
-      <br>OpenCV
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=jupyter" width="65" height="65" alt="Jupyter" />
-      </a>
-      <br>Jupyter
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VsCode" />
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
-      </a>
-      <br>AWS
+    <td align="center">
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" height="100" />
+      <br>
+      <b>🎨 Web Design</b>
+      <br>
+      <progress value="65" max="100"></progress> 65%
     </td>
   </tr>
 </table>
 
-<br/>
+</div>
+
+---
+
+## 🔥 **3D Animated Showcase** 🔥
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="400">
+
+### **🌟 Code in Motion**
+
+```python
+# My coding philosophy in action
+while learning:
+    skills += practice()
+    knowledge *= curiosity
+    projects.append(innovation())
+    if stuck:
+        debug(with_coffee=True)
+        ask_community()
+    celebrate_small_wins()
+```
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" height="200">
 
 </div>
 
@@ -217,129 +228,79 @@ me.say_hi()
 
 <div align="center">
 
+### **📈 Performance Metrics**
+
 <table>
   <tr>
     <td>
-      <img alt="PRODHOSH's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/PRODHOSH?cardType=github&theme=dark&preferLogin=false&Background=000000" />
+      <img src="https://github-readme-stats.vercel.app/api?username=PRODHOSH&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C147E9&icon_color=C147E9&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img alt="PRODHOSH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PRODHOSH&theme=dark&background=000000&border=C147E9&stroke=C147E9&ring=C147E9&fire=FF6B9D&currStreakLabel=FFFFFF" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRODHOSH&theme=midnight-purple&hide_border=true&background=0D1117&stroke=C147E9&ring=C147E9&fire=FF6B9D&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<img alt="PRODHOSH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRODHOSH&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=C147E9&text_color=FFFFFF" />
+### **💻 Language Distribution**
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRODHOSH&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C147E9&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
 
-<img alt="PRODHOSH's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=PRODHOSH&bg_color=0D1117&color=C147E9&line=C147E9&point=FFFFFF&hide_border=true" />
+### **🏆 Achievement Showcase**
 
-<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=PRODHOSH&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=PRODHOSH&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophy" />
+### **📊 Contribution Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRODHOSH&bg_color=0D1117&color=C147E9&line=FF6B9D&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+
+### **⚡ Recent Activity**
+
+<img src="https://github-contributor-stats.vercel.app/api?username=PRODHOSH&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 ---
 
-## 🔥 **Skills & Expertise** 🔥
+## 🌐 **Connect With Me** 🌐
 
 <div align="center">
 
-### 💪 **Programming Proficiency**
-
-<table>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>
-      <br><b>Python</b>
-      <br>🟩🟩🟩🟩🟩 90%
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/>
-      <br><b>C++</b>
-      <br>🟩🟩🟩🟩⬜ 75%
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/>
-      <br><b>JavaScript</b>
-      <br>🟩🟩🟩🟨⬜ 70%
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="SQL"/>
-      <br><b>SQL</b>
-      <br>🟩🟩🟩🟩⬜ 80%
-    </td>
-  </tr>
-</table>
-
-### 🧠 **AI/ML Expertise**
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="400" height="300">
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="40" alt="ML"/>
-      <br><b>Machine Learning</b>
-      <br>🟩🟩🟩🟩⬜ 80%
+      <a href="https://linkedin.com/in/prodhoshvs">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+      </a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="DL"/>
-      <br><b>Deep Learning</b>
-      <br>🟩🟩🟩🟨⬜ 65%
+      <a href="https://instagram.com/itzprodhosh">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram" />
+      </a>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/analytics.png" width="40" alt="Data"/>
-      <br><b>Data Analysis</b>
-      <br>🟩🟩🟩🟩🟩 85%
+      <a href="mailto:prodhosh3@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PRODHOSH">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+      </a>
     </td>
   </tr>
 </table>
 
-</div>
+### **📧 Let's Collaborate!**
 
----
+<a href="mailto:prodhosh3@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email Me" />
+</a>
 
-## 🌐 **Connect & Collaborate** 🌐
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prodhoshvs)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itzprodhosh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prodhosh3@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRODHOSH)
-
-### 💬 **Let's Build Something Amazing Together!**
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Always+open+to+collaboration;Feel+free+to+reach+out;Let's+innovate+together!" />
-
-</div>
-
----
-
-## 🎯 **Current Focus Areas** 🎯
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((PRODHOSH))
-    🧠 AI/ML
-      Deep Learning
-      Neural Networks
-      Computer Vision
-    📊 Data Science  
-      Statistics
-      Data Visualization
-      Big Data Analytics
-    💻 Development
-      Python Mastery
-      Web Technologies
-      Cloud Computing
-    🚀 Innovation
-      Open Source
-      Research Projects
-      Teaching Others
-```
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **I'm always excited to connect with fellow developers and data enthusiasts!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 </div>
 
@@ -349,58 +310,117 @@ mindmap
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&bg_color=0D1117&border_color=C147E9&title_color=FF6B9D&text_color=FFFFFF" alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&bg_color=0D1117&border_color=C147E9&title_color=FF6B9D&text_color=FFFFFF" alt="Random Dev Quote" />
 
 </div>
 
 ---
 
-## 🎉 **Fun Zone** 🎉
+## 🚀 **Featured Projects** 🚀
+
+<div align="center">
+
+### **🔥 Coming Soon: Amazing ML Projects! 🔥**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" height="150" />
+      <br>
+      <b>🤖 ML Algorithm Visualizer</b>
+      <br>
+      <i>Interactive visualization of ML algorithms</i>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" height="150" />
+      <br>
+      <b>📊 Data Analysis Dashboard</b>
+      <br>
+      <i>Beautiful dashboards for data insights</i>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="150" />
+      <br>
+      <b>🎯 Prediction Models</b>
+      <br>
+      <i>Real-world prediction applications</i>
+    </td>
+  </tr>
+</table>
+
+*Stay tuned for some incredible projects that will blow your mind!* 🚀
+
+</div>
+
+---
+
+## 🎉 **Fun Facts & Easter Eggs** 🎉
 
 <div align="center">
 
 <details>
-<summary><b>🎭 Random Developer Facts About Me</b></summary>
+<summary><b>🎭 Click for some fun facts about me!</b></summary>
 <br>
 
-- 🧮 **Math Enthusiast**: I solve differential equations for fun
-- 📊 **Data Storyteller**: Every dataset has a hidden narrative  
-- 🌙 **Night Coder**: Peak productivity hits after 10 PM
-- ☕ **Coffee Connoisseur**: Fuel gauge always reads "More Coffee"
-- 🎵 **Lo-fi Listener**: Coding soundtrack = chill beats
-- 🔍 **Bug Hunter**: Debugging is like solving puzzles
-- 🚀 **Future Builder**: Dreaming of AI that helps humanity
-- 📚 **Eternal Student**: Always something new to learn in tech
+- 🧮 **Math Lover**: I genuinely find beauty in mathematical equations
+- 📊 **Data Storyteller**: Every dataset has a story waiting to be discovered  
+- 🌙 **Night Owl**: My best coding happens between 10 PM and 2 AM
+- ☕ **Coffee Addict**: Fueled by coffee and curiosity
+- 🎵 **Music While Coding**: Lo-fi beats are my coding soundtrack
+- 🎯 **Problem Solver**: I love turning complex problems into simple solutions
+- 🚀 **Future Goals**: Dream of contributing to AI that benefits humanity
+- 📚 **Continuous Learner**: There's always something new to discover in tech!
 
-```python
-def developer_life():
-    while True:
-        coffee.drink()
-        code.write()
-        if bug_found:
-            debug(patience=True)
-        else:
-            celebrate_small_wins()
-        learn_something_new()
-```
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
 
 </details>
+
+### **🎪 Interactive Elements**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Thanks+for+checking+out+my+profile!;Let's+build+something+amazing+together!;Feel+free+to+reach+out+anytime!;Happy+Coding!+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-## 🌟 **Final Words** 🌟
+## 🐍 **GitHub Contribution Snake Game** 🐍
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" />
+### **🎮 Watch My Contributions Get Eaten!**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PRODHOSH/PRODHOSH/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PRODHOSH/PRODHOSH/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PRODHOSH/PRODHOSH/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" height="200">
+
+### **🎯 Game Stats**
+- **🏆 High Score**: Every commit counts!
+- **🎮 Current Level**: Data Science Explorer
+- **🐍 Snake Length**: Growing with each project!
+
+</div>
+
+---
+
+## 🌟 **Final Touch** 🌟
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### **💫 "In the world of data, every number tells a story, and I'm here to listen." 💫**
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Thanks+for+checking+out+my+profile!;Let's+build+something+amazing+together!;Feel+free+to+reach+out+anytime!;Happy+Coding!+%F0%9F%9A%80" />
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+
+---
 
 <sub>⭐ **Don't forget to star my repositories if you find them interesting!** ⭐</sub>
 
