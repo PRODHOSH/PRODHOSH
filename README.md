@@ -8,7 +8,7 @@
 
 ### 🚀 *"I love math so much that I chose Data Science just to live in numbers!"* 😅
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGF4aXpuc2dkN3VyeWNuNTA3Zm0yMWJja21tY3AyNGh1YTdoN2pnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="500" height="300">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300">
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGF4aXpuc2dkN3VyeWNuNTA3Zm0yMWJja21tY3AyNGh1YTdoN2pnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="200">
 
 ### **✨ Visit My Portfolio Website ✨**
 
