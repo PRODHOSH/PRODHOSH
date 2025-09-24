@@ -8,7 +8,7 @@
 
 ### 🚀 *"I love math so much that I chose Data Science just to live in numbers!"* 😅
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300">
 
 </div>
 
@@ -136,32 +136,6 @@ me.say_hi()
 </div>
 
 ---
-
----
-
-## 🔥 **3D Animated Showcase** 🔥
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="400">
-
-### **🌟 Code in Motion**
-
-```python
-# My coding philosophy in action
-while learning:
-    skills += practice()
-    knowledge *= curiosity
-    projects.append(innovation())
-    if stuck:
-        debug(with_coffee=True)
-        ask_community()
-    celebrate_small_wins()
-```
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" height="200">
-
-</div>
 
 ---
 
@@ -303,7 +277,7 @@ while learning:
 <summary><b>🎭 Click for some fun facts about me!</b></summary>
 <br>
 
-- 🧮 **Math Lover**: I genuinely find beauty in mathematical equations
+- 🧮 **Math Lover**: I genuinely love solving mathematical equations
 - 📊 **Data Storyteller**: Every dataset has a story waiting to be discovered  
 - 🌙 **Night Owl**: My best coding happens between 10 PM and 2 AM
 - ☕ **Coffee Addict**: Fueled by coffee and curiosity
