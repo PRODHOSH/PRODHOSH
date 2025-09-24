@@ -14,6 +14,28 @@
 
 ---
 
+## 🌐 **Explore My Digital World** 🌐
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200">
+
+### **✨ Visit My Portfolio Website ✨**
+
+<a href="https://prodhosh.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌟_Visit_My_Portfolio-FF6B9D?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000&color=C147E9" alt="Portfolio Website" height="60"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=🚀+Discover+My+Projects+%26+Journey;💻+Interactive+Experience+Awaits;🎯+Full+Portfolio+%7C+Projects+%7C+Blog;✨+Click+Above+to+Explore!" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+---
+
 ## 🌟 **About Me** 🌟
 
 ```python
@@ -24,9 +46,11 @@ class DataScientist:
         self.language_spoken = ["Python", "C++", "JavaScript", "SQL"]
         self.current_focus = "Machine Learning & Statistics"
         self.fun_fact = "Living in numbers, dreaming in algorithms"
+        self.portfolio = "https://prodhosh.github.io/portfolio/"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
+        print(f"Check out my full journey at: {self.portfolio}")
 
 me = DataScientist()
 me.say_hi()
@@ -132,6 +156,7 @@ me.say_hi()
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
+
 ---
 
 ## 📊 **GitHub Analytics** 📊
@@ -181,6 +206,11 @@ me.say_hi()
 
 <table>
   <tr>
+    <td align="center">
+      <a href="https://prodhosh.github.io/portfolio/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="Portfolio" />
+      </a>
+    </td>
     <td align="center">
       <a href="https://linkedin.com/in/prodhoshvs">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
@@ -292,9 +322,6 @@ me.say_hi()
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Thanks+for+checking+out+my+profile!;Let's+build+something+amazing+together!;Feel+free+to+reach+out+anytime!;Happy+Coding!+%F0%9F%9A%80" />
 
 </div>
-
----
-
 
 ---
 
