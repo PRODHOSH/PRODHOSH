@@ -137,65 +137,6 @@ me.say_hi()
 
 ---
 
-## 🎮 **Coding Journey & Skills** 🎮
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="300">
-
-### **💪 Skill Progression**
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" height="100" />
-      <br>
-      <b>🐍 Python</b>
-      <br>
-      <progress value="90" max="100"></progress> 90%
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" height="100" />
-      <br>
-      <b>⚡ C++</b>
-      <br>
-      <progress value="75" max="100"></progress> 75%
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" height="100" />
-      <br>
-      <b>🌐 JavaScript</b>
-      <br>
-      <progress value="70" max="100"></progress> 70%
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100" height="100" />
-      <br>
-      <b>🤖 Machine Learning</b>
-      <br>
-      <progress value="80" max="100"></progress> 80%
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" height="100" />
-      <br>
-      <b>📊 Data Analysis</b>
-      <br>
-      <progress value="85" max="100"></progress> 85%
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" height="100" />
-      <br>
-      <b>🎨 Web Design</b>
-      <br>
-      <progress value="65" max="100"></progress> 65%
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ---
 
 ## 🔥 **3D Animated Showcase** 🔥
@@ -385,26 +326,6 @@ while learning:
 
 ---
 
-## 🐍 **GitHub Contribution Snake Game** 🐍
-
-<div align="center">
-
-### **🎮 Watch My Contributions Get Eaten!**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PRODHOSH/PRODHOSH/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PRODHOSH/PRODHOSH/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PRODHOSH/PRODHOSH/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" height="200">
-
-### **🎯 Game Stats**
-- **🏆 High Score**: Every commit counts!
-- **🎮 Current Level**: Data Science Explorer
-- **🐍 Snake Length**: Growing with each project!
-
-</div>
 
 ---
 
@@ -416,7 +337,7 @@ while learning:
 
 ### **💫 "In the world of data, every number tells a story, and I'm here to listen." 💫**
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" height="300">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
