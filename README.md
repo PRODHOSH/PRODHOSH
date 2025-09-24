@@ -1,6 +1,5 @@
-<div align ="center">
-# 💫 **PRODHOSH** 💫
-</div>
+<h1 align="center">💫 <b>PRODHOSH</b> 💫</h1>
+
 
 <div align="center">
 
