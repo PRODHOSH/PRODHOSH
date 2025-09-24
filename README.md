@@ -311,7 +311,7 @@ me.say_hi()
 
 ### **💫 "In the world of data, every number tells a story, and I'm here to listen." 💫**
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" height="300">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="300">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
