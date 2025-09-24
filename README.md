@@ -8,7 +8,7 @@
 
 ### 🚀 *"I love math so much that I chose Data Science just to live in numbers!"* 😅
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200">
 
 </div>
 
