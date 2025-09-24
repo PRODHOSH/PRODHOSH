@@ -24,4 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PRODHOSH&icon=9&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://raw.githubusercontent.com/{PRODHOSH}/{PRODHOSH}/output/github-contribution-grid-snake-dark.svg)
