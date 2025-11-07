@@ -23,7 +23,7 @@
 
 ### **✨ Visit My Portfolio Website ✨**
 
-<a href="https://prodhosh.github.io/portfolio/" target="_blank">
+<a href="https://prodhosh.github.io/prodhosh-portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/🌟_Visit_My_Portfolio-FF6B9D?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000&color=C147E9" alt="Portfolio Website" height="60"/>
 </a>
 
@@ -208,7 +208,7 @@ me.say_hi()
 <table>
   <tr>
     <td align="center">
-      <a href="https://prodhosh.github.io/portfolio/" target="_blank">
+      <a href="https://prodhosh.github.io/prodhosh-portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="Portfolio" />
       </a>
     </td>
