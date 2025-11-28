@@ -14,7 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🚀 *"I love math so much that I chose Data Science just to live in numbers!"* 😅
+### 🚀 *"Trust the process!!"* 😅
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200">
 
