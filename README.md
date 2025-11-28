@@ -169,7 +169,7 @@ int main() {
 ### **Web Technologies**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)
+
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
@@ -231,7 +231,7 @@ int main() {
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="400" height="300">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200" height="100">
 
 <table>
   <tr>
@@ -280,42 +280,11 @@ int main() {
 
 ---
 
-## 🚀 **Featured Projects** 🚀
+<br>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=PRODHOSH&style=for-the-badge&color=C147E9"/>
 
-### **🔥 Coming Soon: Amazing ML Projects! 🔥**
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" height="150" />
-      <br>
-      <b>🤖 ML Algorithm Visualizer</b>
-      <br>
-      <i>Interactive visualization of ML algorithms</i>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" height="150" />
-      <br>
-      <b>📊 Data Analysis Dashboard</b>
-      <br>
-      <i>Beautiful dashboards for data insights</i>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="150" />
-      <br>
-      <b>🎯 Prediction Models</b>
-      <br>
-      <i>Real-world prediction applications</i>
-    </td>
-  </tr>
-</table>
-
-*Stay tuned for some incredible projects that will blow your mind!* 🚀
-
-</div>
-
+<br>
 ---
 
 ## 🎉 **Fun Facts & Easter Eggs** 🎉
