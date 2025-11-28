@@ -49,24 +49,40 @@
 
 ---
 
-## 🌟 **About Me** 🌟
+## 👨‍💻 **About Me**
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Prodhosh"
-        self.role = "ML Enthusiast & Data Explorer"
-        self.language_spoken = ["Python", "C++", "JavaScript", "SQL"]
-        self.current_focus = "Machine Learning & Statistics"
-        self.fun_fact = "Living in numbers, dreaming in algorithms"
-        self.portfolio = "https://prodhosh.github.io/portfolio/"
+```cpp
+#include <iostream>
+#include <vector>
+#include <string>
+
+class Developer {
+public:
+    std::string name = "Prodhosh";
+    std::string role = "Student Developer";
+    std::string location = "India 🇮🇳";
     
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-        print(f"Check out my full journey at: {self.portfolio}")
+    std::vector<std::string> passions = {
+        "Data Science",
+        "Web Development",
+        "Problem Solving",
+        "Building Cool Stuff"
+    };
+    
+    std::string motto() {
+        return "Trust the Process! 💪";
+    }
+    
+    void sayHi() {
+        std::cout << "Thanks for stopping by! Let's connect! 👋" << std::endl;
+    }
+};
 
-me = DataScientist()
-me.say_hi()
+int main() {
+    Developer me;
+    me.sayHi();
+    return 0;
+}
 ```
 
 <details>
