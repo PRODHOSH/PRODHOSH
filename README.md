@@ -1,14 +1,14 @@
 
 <div align="center">
 
-```
+<pre>
 ██████╗ ██████╗  ██████╗ ██████╗ ██╗  ██╗ ██████╗ ███████╗██╗  ██╗
 ██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██║  ██║██╔═══██╗██╔════╝██║  ██║
 ██████╔╝██████╔╝██║   ██║██║  ██║███████║██║   ██║███████╗███████║
 ██╔═══╝ ██╔══██╗██║   ██║██║  ██║██╔══██║██║   ██║╚════██║██╔══██║
 ██║     ██║  ██║╚██████╔╝██████╔╝██║  ██║╚██████╔╝███████║██║  ██║
 ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+</pre>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=C147E9&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Data+Science+Explorer;Python+%7C+C%2B%2B+Developer;Living+in+Numbers+%F0%9F%93%8A;Dreaming+in+Algorithms+%E2%9C%A8)
 
