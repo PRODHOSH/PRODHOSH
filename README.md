@@ -250,11 +250,10 @@ int main() {
 
 <!-- Choose one of these GIF options by uncommenting your favorite: -->
 
-<!-- Option 1: Matrix-style coding animation -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200">
+
 
 <!-- Option 2: Neon wave animation -->
-<!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200"> -->
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200"> 
 
 <!-- Option 3: Digital connections network -->
 <!-- <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="400" height="200"> -->
