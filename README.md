@@ -313,7 +313,6 @@ int main() {
 ![Forks](https://img.shields.io/github/forks/PRODHOSH/portfolio?style=social)
 ![Watchers](https://img.shields.io/github/watchers/PRODHOSH/portfolio?style=social)
 
----
 
 **Made with 💜 by PRODHOSH V.S**
 
