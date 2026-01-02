@@ -255,7 +255,7 @@ int main() {
 
 
 <!-- Option 3: Digital connections network -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" height="400"> 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="500"> 
 
 [![GitHub](https://img.shields.io/badge/GitHub-PRODHOSH-181717?style=for-the-badge&logo=github)](https://github.com/PRODHOSH)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prodhoshvs-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prodhoshvs)
@@ -264,40 +264,6 @@ int main() {
 
 <br><br>
 
-### 💫 Let's Build Something Amazing Together! 💫
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://prodhosh.github.io/prodhosh-portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/🌟_Portfolio-FF6B9D?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=FF1744" alt="Portfolio" />
-        <br><sub><b>View My Work</b></sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://linkedin.com/in/prodhoshvs" target="_blank">
-        <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-        <br><sub><b>Professional Network</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://instagram.com/itzprodhosh" target="_blank">
-        <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" alt="Instagram" />
-        <br><sub><b>Daily Updates</b></sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/PRODHOSH" target="_blank">
-        <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292E" alt="GitHub" />
-        <br><sub><b>Code Repository</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Open+to+Collaborations!;Let's+Connect+and+Create!;Always+Learning+%26+Growing!)](https://git.io/typing-svg)
 
