@@ -244,36 +244,71 @@ int main() {
 
 ---
 
-## 🌐 **Connect With Me** 🌐
+# 🌐 **Connect With Me** 🌐
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200" height="100">
+<!-- Choose one of these GIF options by uncommenting your favorite: -->
+
+<!-- Option 1: Matrix-style coding animation -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200">
+
+<!-- Option 2: Neon wave animation -->
+<!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200"> -->
+
+<!-- Option 3: Digital connections network -->
+<!-- <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="400" height="200"> -->
+
+<!-- Option 4: Synthwave landscape -->
+<!-- <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="400" height="200"> -->
+
+<!-- Option 5: Geometric patterns -->
+<!-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="200"> -->
+
+<br><br>
+
+### 💫 Let's Build Something Amazing Together! 💫
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="200">
       <a href="https://prodhosh.github.io/prodhosh-portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/🌟_Portfolio-FF6B9D?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=FF1744" alt="Portfolio" />
+        <br><sub><b>View My Work</b></sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/prodhoshvs">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+    <td align="center" width="200">
+      <a href="https://linkedin.com/in/prodhoshvs" target="_blank">
+        <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+        <br><sub><b>Professional Network</b></sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://instagram.com/itzprodhosh">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram" />
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://instagram.com/itzprodhosh" target="_blank">
+        <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" alt="Instagram" />
+        <br><sub><b>Daily Updates</b></sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/PRODHOSH">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+    <td align="center" width="200">
+      <a href="https://github.com/PRODHOSH" target="_blank">
+        <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292E" alt="GitHub" />
+        <br><sub><b>Code Repository</b></sub>
       </a>
     </td>
   </tr>
 </table>
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Open+to+Collaborations!;Let's+Connect+and+Create!;Always+Learning+%26+Growing!)](https://git.io/typing-svg)
+
+---
+
+<sub>⚡ **Quick Response Guaranteed** | 🚀 **Open for Opportunities** | 💡 **Passionate Developer**</sub>
+
+</div>
 
 ### **📧 Let's Collaborate!**
 
