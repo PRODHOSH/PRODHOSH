@@ -262,26 +262,7 @@ int main() {
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prodhosh.github.io/prodhosh-portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-itzprodhosh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itzprodhosh)
 
-<br><br>
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Open+to+Collaborations!;Let's+Connect+and+Create!;Always+Learning+%26+Growing!)](https://git.io/typing-svg)
-
----
-
-<sub>⚡ **Quick Response Guaranteed** | 🚀 **Open for Opportunities** | 💡 **Passionate Developer**</sub>
-
-</div>
-
-### **📧 Let's Collaborate!**
-
-<a href="mailto:prodhosh3@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email Me" />
-</a>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **I'm always excited to connect with fellow developers and data enthusiasts!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-</div>
 
 ---
 
