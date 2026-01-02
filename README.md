@@ -252,11 +252,10 @@ int main() {
 
 
 
-<!-- Option 2: Neon wave animation -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200"> 
+
 
 <!-- Option 3: Digital connections network -->
-<!-- <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="400" height="200"> -->
+<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="400" height="200"> 
 
 <!-- Option 4: Synthwave landscape -->
 <!-- <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="400" height="200"> -->
