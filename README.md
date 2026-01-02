@@ -276,13 +276,6 @@ int main() {
 
 ---
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=PRODHOSH&style=for-the-badge&color=C147E9"/>
-
-<br>
----
-
 ## 🎉 **Fun Facts & Easter Eggs** 🎉
 
 <div align="center">
@@ -314,7 +307,15 @@ int main() {
 
 ---
 <div align = "center">
-<sub>⭐ **Don't forget to star my repositories if you find them interesting!** ⭐</sub>
+### ⭐ Star this repo if you find it helpful!
+
+![Star](https://img.shields.io/github/stars/PRODHOSH/portfolio?style=social)
+![Forks](https://img.shields.io/github/forks/PRODHOSH/portfolio?style=social)
+![Watchers](https://img.shields.io/github/watchers/PRODHOSH/portfolio?style=social)
+
+---
+
+**Made with 💜 by PRODHOSH V.S**
 
 </div>
 
