@@ -57,6 +57,7 @@
 </a>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=🚀+Discover+My+Projects+%26+Journey;💻+Interactive+Experience+Awaits;🎯+Full+Portfolio+%7C+Projects+%7C+Blog;✨+Click+Above+to+Explore!" />
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
