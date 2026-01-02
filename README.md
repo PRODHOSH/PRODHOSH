@@ -255,13 +255,12 @@ int main() {
 
 
 <!-- Option 3: Digital connections network -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" height="200"> 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" height="400"> 
 
-<!-- Option 4: Synthwave landscape -->
-<!-- <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="400" height="200"> -->
-
-<!-- Option 5: Geometric patterns -->
-<!-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="200"> -->
+[![GitHub](https://img.shields.io/badge/GitHub-PRODHOSH-181717?style=for-the-badge&logo=github)](https://github.com/PRODHOSH)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prodhoshvs-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prodhoshvs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prodhosh.github.io/prodhosh-portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-itzprodhosh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itzprodhosh)
 
 <br><br>
 
