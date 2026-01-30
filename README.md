@@ -106,67 +106,6 @@ int main() {
     return 0;
 }
 ```
-
-<details>
-<summary>🔭 <b>What I'm Currently Working On</b></summary>
-<br>
-
-- 🧠 **Deep Learning** with Neural Networks
-- 📊 **Statistical Analysis** and Data Modeling  
-- 🤖 **Machine Learning Algorithms** implementation
-- 📈 **Data Visualization** with advanced techniques
-- 🔍 **Exploratory Data Analysis** on real-world datasets
-
-</details>
-
-<details>
-<summary>👯 <b>Looking to Collaborate On</b></summary>
-<br>
-
-- 🌐 **Open Source Projects** in AI/ML
-- 📊 **Data Science Competitions** (Kaggle, etc.)
-- 🤖 **Machine Learning Research** projects
-- 📱 **AI Applications** for real-world problems
-- 🎓 **Educational Content** for beginners
-
-</details>
-
-<details>
-<summary>🤝 <b>How I Can Help You</b></summary>
-<br>
-
-- 🐍 **Python Programming** (Beginner to Intermediate)
-- ⚡ **C++ Development** and Problem Solving
-- 📊 **Data Analysis** and Visualization
-- 🤖 **Machine Learning** concepts and implementation
-- 💡 **Learning Strategies** for tech skills
-
-</details>
-
-<details>
-<summary>🌱 <b>Currently Learning</b></summary>
-<br>
-
-- 📊 **Advanced Statistics** for Machine Learning
-- 🧮 **Mathematics** for Data Science
-- 🔥 **Deep Learning** frameworks (TensorFlow, PyTorch)
-- 📈 **Time Series Analysis**
-- 🎯 **MLOps** and Model Deployment
-
-</details>
-
-<details>
-<summary>💬 <b>Ask Me About</b></summary>
-<br>
-
-- 💻 **Coding Best Practices** and Clean Code
-- 🚀 **Productivity Hacks** for developers
-- 📚 **Learning Strategies** for self-taught programmers
-- 🎯 **Goal Setting** and skill development
-- 🔍 **Data Analysis** techniques and tools
-
-</details>
-
 ---
 
 ## 💻 **Tech Arsenal** 💻
@@ -282,5 +221,5 @@ int main() {
 
 ---
 <div align = "center">
-**Made with 💜 by PRODHOSH V.S**
+Made with 💜 by PRODHOSH V.S
 </div>
