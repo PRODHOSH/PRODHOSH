@@ -51,8 +51,12 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  [![VISIT MY PORTFOLIO](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-FF69B4?style=for-the-badge&logo=safari&logoColor=white)](https://prodhosh.netlify.app)
-  
+</div>
+
+<div align="center">
+
+[![VISIT MY PORTFOLIO](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-FF69B4?style=for-the-badge&logo=safari&logoColor=white)](https://prodhosh.netlify.app)
+
 </div>
 
 ---
