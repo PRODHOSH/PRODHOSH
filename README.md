@@ -29,9 +29,8 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🚀 *"Trust the process!!"* 😅
+###  *"trust the process"* 
 
 <!-- Snake Animation -->
 <picture>
@@ -272,38 +271,8 @@ int main() {
 
 ---
 
-## 💡 **Daily Inspiration** 💡
 
-<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&bg_color=0D1117&border_color=C147E9&title_color=FF6B9D&text_color=FFFFFF" alt="Random Dev Quote" />
-
-</div>
-
----
-
-## 🎉 **Fun Facts & Easter Eggs** 🎉
-
-<div align="center">
-
-<details>
-<summary><b>🎭 Click for some fun facts about me!</b></summary>
-<br>
-
-- 🧮 **Math Lover**: I genuinely love solving mathematical equations
-- 📊 **Data Storyteller**: Every dataset has a story waiting to be discovered  
-- 🌙 **Night Owl**: My best coding happens between 10 PM and 2 AM
-- ☕ **Coffee Addict**: Fueled by coffee and curiosity
-- 🎵 **Music While Coding**: Lo-fi beats are my coding soundtrack
-- 🎯 **Problem Solver**: I love turning complex problems into simple solutions
-- 🚀 **Future Goals**: Dream of contributing to AI that benefits humanity
-- 📚 **Continuous Learner**: There's always something new to discover in tech!
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
-
-</details>
-
-### **🎪 Interactive Elements**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" />
 
@@ -313,16 +282,5 @@ int main() {
 
 ---
 <div align = "center">
-### ⭐ Star this repo if you find it helpful!
-
-![Star](https://img.shields.io/github/stars/PRODHOSH/portfolio?style=social)
-![Forks](https://img.shields.io/github/forks/PRODHOSH/portfolio?style=social)
-![Watchers](https://img.shields.io/github/watchers/PRODHOSH/portfolio?style=social)
-
-
 **Made with 💜 by PRODHOSH V.S**
-
 </div>
-
-<!-- Easter Egg: If you read this far, you're awesome! 🚀 -->
-<!-- Made with 💜 by PRODHOSH -->
