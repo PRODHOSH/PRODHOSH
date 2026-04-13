@@ -70,7 +70,7 @@
 
 class Developer {
 public:
-    std::string name = "Prodhosh";
+    std::string name = "Prodhosh VS";
     std::string role = "Student Developer";
     std::string location = "India 🇮🇳";
     
@@ -86,11 +86,11 @@ public:
     }
     
     void sayHi() {
-        std::cout << "Thanks for stopping by! Let's connect! 👋" << std::endl;
+        std::cout << "Thanks for stopping by! Let's connect!!!" << std::endl;
     }
 };
 
-int main() {
+int main(void) {
     Developer me;
     me.sayHi();
     return 0;
@@ -182,13 +182,6 @@ int main() {
 
 <div align="center">
 
-<!-- Choose one of these GIF options by uncommenting your favorite: -->
-
-
-
-
-
-<!-- Option 3: Digital connections network -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="500"> 
 
 [![GitHub](https://img.shields.io/badge/GitHub-PRODHOSH-181717?style=for-the-badge&logo=github)](https://github.com/PRODHOSH)
