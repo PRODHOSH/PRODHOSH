@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/prodhoshvs">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://prodhosh.github.io/prodhosh-portfolio/">
+<a href="https://prodhosh.me">
   <img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 <a href="mailto:prodhosh3@gmail.com">
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-[![VISIT MY PORTFOLIO](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-FF69B4?style=for-the-badge&logo=safari&logoColor=white)](https://prodhosh.netlify.app)
+[![VISIT MY PORTFOLIO](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-FF69B4?style=for-the-badge&logo=safari&logoColor=white)](https://prodhosh.me)
 
 </div>
 
