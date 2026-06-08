@@ -178,11 +178,11 @@ int main(void) {
 
 ---
 
-## 📅 **Isometric Commit Calendar** 📅
+## 🧱 **3D Contribution Calendar** 🧱
 
 <div align="center">
 
-<img src="./github-metrics.isocalendar.svg" alt="Isometric commit calendar" width="100%">
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D contribution calendar (git block)" width="100%">
 
 </div>
 
