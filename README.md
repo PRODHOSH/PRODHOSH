@@ -1,17 +1,20 @@
 <div align="center">
 
-<pre>
-██████╗ ██████╗  ██████╗ ██████╗ ██╗  ██╗ ██████╗ ███████╗██╗  ██╗
-██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██║  ██║██╔═══██╗██╔════╝██║  ██║
-██████╔╝██████╔╝██║   ██║██║  ██║███████║██║   ██║███████╗███████║
-██╔═══╝ ██╔══██╗██║   ██║██║  ██║██╔══██║██║   ██║╚════██║██╔══██║
-██║     ██║  ██║╚██████╔╝██████╔╝██║  ██║╚██████╔╝███████║██║  ██║
-╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-</pre>
+<img src="./assets/name-heatmap.svg" alt="PRODHOSH spelled out in a contribution heatmap grid" width="100%">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Science+Explorer;Python+%26+C%2B%2B+Developer;Turning+Data+Into+Stories;Trust+The+Process" alt="Typing SVG" />
 </a>
+
+</div>
+
+---
+
+## whoami
+
+<div align="center">
+
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=PRODHOSH&theme=tokyonight&headerStyle=mac)](https://github.com/PRODHOSH)
 
 </div>
 
@@ -32,6 +35,19 @@
 I'm Prodhosh, a student developer from India working mostly with Python and C++. Most of my time goes into data science and machine learning, though I build things on the web whenever an idea needs a place to live. I like figuring out what a dataset is actually trying to say, and I'm always looking for an excuse to learn something new.
 
 Trust the process.
+
+<div align="center">
+
+<pre>
+██████╗ ██████╗  ██████╗ ██████╗ ██╗  ██╗ ██████╗ ███████╗██╗  ██╗
+██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██║  ██║██╔═══██╗██╔════╝██║  ██║
+██████╔╝██████╔╝██║   ██║██║  ██║███████║██║   ██║███████╗███████║
+██╔═══╝ ██╔══██╗██║   ██║██║  ██║██╔══██║██║   ██║╚════██║██╔══██║
+██║     ██║  ██║╚██████╔╝██████╔╝██║  ██║╚██████╔╝███████║██║  ██║
+╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+</pre>
+
+</div>
 
 <div align="center">
 
@@ -57,37 +73,25 @@ The languages, frameworks, and infra that show up in my projects more than I'd l
 
 ---
 
-## Recent activity
+## Trophy case
 
-A live feed straight from GitHub, refreshed every few hours so it actually shows what I'm doing right now instead of going stale.
-
-<!--START_SECTION:activity-->
-1. ℹ️ Unlabeled PR [#98](https://github.com/PRODHOSH/ossfolio/pull/98) in [PRODHOSH/ossfolio](https://github.com/PRODHOSH/ossfolio)
-2. ℹ️ Labeled PR [#98](https://github.com/PRODHOSH/ossfolio/pull/98) in [PRODHOSH/ossfolio](https://github.com/PRODHOSH/ossfolio)
-3. ℹ️ Labeled PR [#99](https://github.com/PRODHOSH/ossfolio/pull/99) in [PRODHOSH/ossfolio](https://github.com/PRODHOSH/ossfolio)
-4. ℹ️ Unlabeled PR [#99](https://github.com/PRODHOSH/ossfolio/pull/99) in [PRODHOSH/ossfolio](https://github.com/PRODHOSH/ossfolio)
-5. 🔒 Closed issue [#64](https://github.com/PRODHOSH/ossfolio/issues/64) in [PRODHOSH/ossfolio](https://github.com/PRODHOSH/ossfolio)
-<!--END_SECTION:activity-->
-
----
-
-## Achievements (testing two looks)
-
-Trying out two layouts for a GitHub achievements badge below, generated straight from my account. Once we pick a winner, the other one comes out.
-
-**Detailed**
+A quick scoreboard of what GitHub has tracked about me so far. Commits, stars, pull requests, the whole stack, pulled live every time someone loads this page.
 
 <div align="center">
 
-<img src="./metrics/achievements-detailed.svg" alt="Achievements, detailed view" width="100%">
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=PRODHOSH&theme=radical&no-frame=true&row=1&column=7" alt="GitHub trophies">
 
 </div>
 
-**Compact**
+---
+
+## Badges
+
+A few digital badges I've picked up from communities and events along the way. Click through to see the full collection.
 
 <div align="center">
 
-<img src="./metrics/achievements-compact.svg" alt="Achievements, compact view" width="100%">
+[![An image of @prodhosh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prodhosh)](https://holopin.io/@prodhosh)
 
 </div>
 
@@ -97,7 +101,7 @@ Trying out two layouts for a GitHub achievements badge below, generated straight
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 [![GitHub](https://img.shields.io/badge/GitHub-PRODHOSH-181717?style=for-the-badge&logo=github)](https://github.com/PRODHOSH)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prodhoshvs-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prodhoshvs)
