@@ -178,6 +178,16 @@ int main(void) {
 
 ---
 
+## 📅 **Isometric Commit Calendar** 📅
+
+<div align="center">
+
+<img src="./github-metrics.isocalendar.svg" alt="Isometric commit calendar" width="100%">
+
+</div>
+
+---
+
 # 🌐 **Connect With Me** 🌐
 
 <div align="center">
