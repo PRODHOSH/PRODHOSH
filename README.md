@@ -10,29 +10,31 @@
 </pre>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Science+Explorer+%F0%9F%93%8A;Python+%26+C%2B%2B+Developer;Turning+Data+Into+Stories;Trust+The+Process+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Science+Explorer;Python+%26+C%2B%2B+Developer;Turning+Data+Into+Stories;Trust+The+Process" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PRODHOSH&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</p>
+</div>
 
-<a href="https://linkedin.com/in/prodhoshvs">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://prodhosh.me">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-<a href="mailto:prodhosh3@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+---
 
-<br><br>
+## Contributions
 
+<div align="center">
 
-###  *"trust the process"* 
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D contribution calendar" width="100%">
 
-<!-- Snake Animation -->
+</div>
+
+---
+
+## About
+
+I'm Prodhosh, a student developer from India working mostly with Python and C++. Most of my time goes into data science and machine learning, though I build things on the web whenever an idea needs a place to live. I like figuring out what a dataset is actually trying to say, and I'm always looking for an excuse to learn something new.
+
+Trust the process.
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
@@ -43,175 +45,79 @@
 
 ---
 
-# 🌐 Explore My Digital World 🌐
+## What's in the toolbox
 
-<div align="center">
-  <img src="https://media.tenor.com/-wqssfkUNh8AAAAM/kip-technology.gif" width="400">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
+The languages, frameworks, and infra that show up in my projects more than I'd like to admit.
 
 <div align="center">
 
-[![VISIT MY PORTFOLIO](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-FF69B4?style=for-the-badge&logo=safari&logoColor=white)](https://prodhosh.me)
+<img src="https://cdn.simpleicons.org/python" title="Python" alt="Python" width="40" height="40"/> <img src="https://cdn.simpleicons.org/c" title="C" alt="C" width="40" height="40"/> <img src="https://cdn.simpleicons.org/cplusplus" title="C++" alt="C++" width="40" height="40"/> <img src="https://cdn.simpleicons.org/javascript" title="JavaScript" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.simpleicons.org/react" title="React" alt="React" width="40" height="40"/> <img src="https://cdn.simpleicons.org/nextdotjs" title="Next.js" alt="Next.js" width="40" height="40"/> <img src="https://cdn.simpleicons.org/html5" title="HTML" alt="HTML" width="40" height="40"/> <img src="https://cdn.simpleicons.org/css" title="CSS" alt="CSS" width="40" height="40"/> <img src="https://cdn.simpleicons.org/numpy" title="NumPy" alt="NumPy" width="40" height="40"/> <img src="https://cdn.simpleicons.org/pandas" title="Pandas" alt="Pandas" width="40" height="40"/> <img src="https://cdn.simpleicons.org/scikitlearn" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/> <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-darkbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/> <img src="https://cdn.simpleicons.org/mysql" title="MySQL" alt="MySQL" width="40" height="40"/> <img src="https://cdn.simpleicons.org/postgresql" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/> <img src="https://cdn.simpleicons.org/supabase" title="Supabase" alt="Supabase" width="40" height="40"/> <img src="https://cdn.simpleicons.org/neon" title="Neon" alt="Neon" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="40" height="40"/> <img src="https://cdn.simpleicons.org/googlecloud" title="Google Cloud" alt="Google Cloud" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" alt="Cloudflare" width="40" height="40"/> <img src="https://cdn.simpleicons.org/cloudinary" title="Cloudinary" alt="Cloudinary" width="40" height="40"/> <img src="https://cdn.simpleicons.org/docker" title="Docker" alt="Docker" width="40" height="40"/> <img src="https://cdn.simpleicons.org/n8n" title="n8n" alt="n8n" width="40" height="40"/> <img src="https://cdn.simpleicons.org/vercel/white" title="Vercel" alt="Vercel" width="40" height="40"/> <img src="https://cdn.simpleicons.org/netlify" title="Netlify" alt="Netlify" width="40" height="40"/> <img src="https://cdn.simpleicons.org/render" title="Render" alt="Render" width="40" height="40"/> <img src="https://cdn.simpleicons.org/railway/white" title="Railway" alt="Railway" width="40" height="40"/> <img src="https://cdn.simpleicons.org/digitalocean" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/> <img src="https://cdn.simpleicons.org/hetzner" title="Hetzner" alt="Hetzner" width="40" height="40"/>
 
 </div>
 
 ---
 
-## 👨‍💻 **About Me**
+## Recent activity
 
-```cpp
-#include <iostream>
-#include <vector>
-#include <string>
+A live feed straight from GitHub, refreshed every few hours so it actually shows what I'm doing right now instead of going stale.
 
-class Developer {
-public:
-    std::string name = "Prodhosh VS";
-    std::string role = "Student Developer";
-    std::string location = "India 🇮🇳";
-    
-    std::vector<std::string> passions = {
-        "Data Science",
-        "Web Development",
-        "Problem Solving",
-        "Building Cool Stuff"
-    };
-    
-    std::string motto() {
-        return "Trust the Process! 💪";
-    }
-    
-    void sayHi() {
-        std::cout << "Thanks for stopping by! Let's connect!!!" << std::endl;
-    }
-};
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-int main(void) {
-    Developer me;
-    me.sayHi();
-    return 0;
-}
-```
 ---
 
-## 💻 **Tech Arsenal** 💻
+## Achievements (testing two looks)
+
+Trying out two layouts for a GitHub achievements badge below, generated straight from my account. Once we pick a winner, the other one comes out.
+
+**Detailed**
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="250">
+<img src="./metrics/achievements-detailed.svg" alt="Achievements, detailed view" width="100%">
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+</div>
 
-### **Data Science & ML**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white&labelColor=000000)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000)
+**Compact**
 
-### **Web Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+<div align="center">
 
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000)
-
-### **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=000000)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./metrics/achievements-compact.svg" alt="Achievements, compact view" width="100%">
 
 </div>
 
 ---
 
-## 📊 **GitHub Analytics** 📊
+## Connect
 
 <div align="center">
 
-### **📈 Performance Metrics**
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PRODHOSH&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C147E9&icon_color=C147E9&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRODHOSH&theme=midnight-purple&hide_border=true&background=0D1117&stroke=C147E9&ring=C147E9&fire=FF6B9D&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-### **💻 Language Distribution**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRODHOSH&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C147E9&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
-
-### **🏆 Achievement Showcase**
-
-<img src="https://github-profile-trophy.vercel.app/?username=PRODHOSH&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
-
-### **📊 Contribution Graph**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRODHOSH&bg_color=0D1117&color=C147E9&line=FF6B9D&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-
-### **⚡ Recent Activity**
-
-<img src="https://github-contributor-stats.vercel.app/api?username=PRODHOSH&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
----
-
-## 🧱 **3D Contribution Calendar** 🧱
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D contribution calendar (git block)" width="100%">
-
-</div>
-
----
-
-# 🌐 **Connect With Me** 🌐
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="500"> 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="500">
 
 [![GitHub](https://img.shields.io/badge/GitHub-PRODHOSH-181717?style=for-the-badge&logo=github)](https://github.com/PRODHOSH)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prodhoshvs-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prodhoshvs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prodhosh.github.io/prodhosh-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prodhosh.me)
 [![Instagram](https://img.shields.io/badge/Instagram-itzprodhosh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itzprodhosh)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Open+to+Collaborations!;Let's+Connect+and+Create!;Always+Learning+%26+Growing!)](https://git.io/typing-svg)
-
----
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" />
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Thanks+for+checking+out+my+profile!;Let's+build+something+amazing+together!;Feel+free+to+reach+out+anytime!;Happy+Coding!+%F0%9F%9A%80" />
+[![Mail](https://img.shields.io/badge/Mail-prodhosh3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prodhosh3@gmail.com)
 
 </div>
 
-<div align = "center">
-Made with 💜 by PRODHOSH V.S
+---
+
+## Leave a message
+
+If you have something to say, a question, feedback, or just want to say hi, open a thread in [Discussions](https://github.com/PRODHOSH/PRODHOSH/discussions). I read every one of them.
+
+<div align="center">
+
+[![Leave a message](https://img.shields.io/badge/Leave_a_message-Discussions-7F00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRODHOSH/PRODHOSH/discussions)
+
+</div>
+
+---
+
+<div align="center">
+
+Thanks for visiting. Feel free to say hi.
+
 </div>
