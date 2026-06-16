@@ -97,7 +97,7 @@ A few digital badges I've picked up from communities and events along the way. C
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prodhoshvs-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prodhoshvs)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prodhosh.me)
 [![Instagram](https://img.shields.io/badge/Instagram-itzprodhosh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itzprodhosh)
-[![Mail](https://img.shields.io/badge/Mail-prodhosh3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prodhosh3@gmail.com)
+[![Mail](https://img.shields.io/badge/Mail-hello3%40prodhosh.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@prodhosh.me)
 
 </div>
 
