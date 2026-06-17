@@ -32,9 +32,17 @@
 
 ## About
 
-I'm Prodhosh, a student developer from India working mostly with Python and C++. Most of my time goes into data science and machine learning, though I build things on the web whenever an idea needs a place to live. I like figuring out what a dataset is actually trying to say, and I'm always looking for an excuse to learn something new.
+CS Sophomore at VIT Chennai and IIT Madras BS Data Science.
 
-Trust the process.
+I like building things that people actually use.
+
+I'm interested in AI engineering and building products that can think, learn, and scale. Most of my time is spent designing and developing SaaS-style platforms, developer tools, and software solutions for businesses, communities, and organizations.
+
+Over the past few years, I've worked on 7+ freelance projects, built products used by thousands of users, contributed to open source, and launched everything from learning platforms and analytics tools to AI-powered applications.
+
+I enjoy working across the entire stack, from UI and user experience to architecture, databases, APIs, performance, SEO, and system design. Currently, I'm focused on full stack development, AI products, and becoming a better engineer with every project I build.
+
+If you're building something interesting, looking for a collaborator, or looking to hire, feel free to reach out at [hello@prodhosh.me](mailto:hello@prodhosh.me).
 
 <div align="center">
 
