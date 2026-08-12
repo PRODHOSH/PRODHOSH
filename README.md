@@ -126,7 +126,6 @@ If you have something to say, a question, feedback, or just want to say hi, open
 </picture>
 
 </div>
-
 ---
 
 <div align="center">
