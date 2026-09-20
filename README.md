@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="./assets/name-heatmap.svg" alt="PRODHOSH spelled out in a contribution heatmap grid" width="100%">
 
 <a href="https://git.io/typing-svg">
