@@ -7,6 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&lines=CTO+at+Annexra;Full-Stack+Developer;Agentic+AI+%26+Fintech;Open+to+Freelance+and+SDE+Roles;Trust+The+Process" alt="Typing SVG" />
 </a>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-prodhosh.me-7F00FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prodhosh.me)
+[![Links](https://img.shields.io/badge/Links-links.prodhosh.me-7F00FF?style=for-the-badge&logo=linktree&logoColor=white)](https://links.prodhosh.me)
+[![Blog](https://img.shields.io/badge/Blog-blog.prodhosh.me-7F00FF?style=for-the-badge&logo=rss&logoColor=white)](https://blog.prodhosh.me)
+
 </div>
 
 ---
