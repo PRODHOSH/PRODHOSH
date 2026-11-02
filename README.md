@@ -79,9 +79,9 @@ Grouped by what I use them for. I also work with TypeScript, Java, Hono, shadcn/
 
 | Role | Company | When | What I did |
 | --- | --- | --- | --- |
-| Chief Technology Officer | [Annexra](https://annexra.com) | Aug 2026 to now | Promoted to CTO within 2 months. Built a D2C e-commerce platform (OTP login, Razorpay checkout, GST-aware pricing, server-side price checks) and an internal ERP with custom roles and PostgreSQL Row Level Security. |
-| Full-Stack Developer Intern | Midgreen | Sep 2026 to now | Wrote a deterministic search and matching engine for sustainable packaging that ranks 25 materials on 7 weighted factors. Built the public site and admin panel with 83 automated tests. |
-| Next.js Developer Intern | Sindra | Jul to Sep 2026 | Built Sindra Internal OS, one workspace for tasks, CRM, chat, calendar and documents, with role-based access and a custom email system. |
+| Chief Technology Officer | [Annexra](https://annexra.in) | Aug 2026 to now | Promoted to CTO within 2 months. Built a D2C e-commerce platform (OTP login, Razorpay checkout, GST-aware pricing, server-side price checks) and an internal ERP with custom roles and PostgreSQL Row Level Security. |
+| Full-Stack Developer Intern | [Midgreen](https://midgreen.in) | Sep 2026 to now | Wrote a deterministic search and matching engine for sustainable packaging that ranks 25 materials on 7 weighted factors. Built the public site and admin panel with 83 automated tests. |
+| Next.js Developer Intern | [Sindra](https://sindra.tech) | Jul to Sep 2026 | Built Sindra Internal OS, one workspace for tasks, CRM, chat, calendar and documents, with role-based access and a custom email system. |
 
 ---
 
