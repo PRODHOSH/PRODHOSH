@@ -19,13 +19,17 @@
 
 ## About
 
-I'm Prodhosh, a CS sophomore at VIT Chennai, doing a BS in Data Science at IIT Madras alongside it. I'm the CTO at [Annexra](https://annexra.in), where I own architecture, delivery and engineering quality for a company building websites, automations and ERP systems for businesses.
+### I'm the blueprint.
 
-I like building software that people actually use, and I'm comfortable on both sides of the screen: the interface and the backend behind it.
+I'm Prodhosh. I learn something new every single day, and I genuinely enjoy it. I like working with people, figuring things out together and shipping work I'm proud of.
+
+I've freelanced with a bunch of companies and startups, building software solutions, automations, full software systems and websites. Today I'm the CTO at [Annexra](https://annexra.in), where I own the architecture, delivery and engineering quality for everything we build.
+
+I'm a CS sophomore at VIT Chennai, doing a BS in Data Science at IIT Madras alongside it.
 
 - **Right now:** CTO at Annexra, full-stack intern at Midgreen
-- **Studying:** CS at VIT Chennai, BS in Data Science at IIT Madras
-- **Learning:** agentic AI, fintech and system design, and how software behaves when real people and real money depend on it
+- **Learning:** agentic AI, fintech, system design and how software behaves when real people and real money depend on it
+- **Leveling up in cloud:** AWS, every day
 - **Open to:** freelance projects and SDE roles
 
 ---
