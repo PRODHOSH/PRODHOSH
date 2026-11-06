@@ -19,7 +19,7 @@
 
 ## About
 
-### I'm the blueprint.
+### The Blueprint.
 
 I'm Prodhosh. I learn something new every single day, and I genuinely enjoy it. I like working with people, figuring things out together and shipping work I'm proud of.
 
