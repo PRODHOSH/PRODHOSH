@@ -35,6 +35,18 @@
 
 ---
 
+## My koi
+
+This fish grows out of my GitHub activity. Every night a workflow looks at what I did that day and redraws it, so the more I ship, the more it changes. Built with [git-koi](https://github.com/yalongwastaken/git-koi).
+
+<div align="center">
+
+<img src="koi/koi.gif" width="256" alt="A pixel koi drawn from my GitHub activity">
+
+</div>
+
+---
+
 ## About
 
 I'm Prodhosh, a CS sophomore at VIT Chennai, doing a BS in Data Science at IIT Madras alongside it. I'm the CTO at [Annexra](https://annexra.com), where I own architecture, delivery and engineering quality for a company building websites, automations and ERP systems for businesses.
