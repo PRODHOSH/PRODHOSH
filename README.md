@@ -49,7 +49,7 @@ This fish grows out of my GitHub activity. Every night a workflow looks at what 
 
 ## About
 
-I'm Prodhosh, a CS sophomore at VIT Chennai, doing a BS in Data Science at IIT Madras alongside it. I'm the CTO at [Annexra](https://annexra.com), where I own architecture, delivery and engineering quality for a company building websites, automations and ERP systems for businesses.
+I'm Prodhosh, a CS sophomore at VIT Chennai, doing a BS in Data Science at IIT Madras alongside it. I'm the CTO at [Annexra](https://annexra.in), where I own architecture, delivery and engineering quality for a company building websites, automations and ERP systems for businesses.
 
 I like building software that people actually use. I'm comfortable on both sides of the screen, the interface and the backend behind it.
 
@@ -184,7 +184,7 @@ A quick scoreboard of my GitHub account. These update on their own, so the numbe
 
 [![Followers](https://img.shields.io/github/followers/PRODHOSH?style=for-the-badge&logo=github&label=Followers&color=7F00FF)](https://github.com/PRODHOSH?tab=followers)
 [![Public repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20repos&color=7F00FF&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPRODHOSH)](https://github.com/PRODHOSH?tab=repositories)
-[![Member since](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Joined&color=7F00FF&query=created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPRODHOSH)](https://github.com/PRODHOSH)
+[![On GitHub since](https://img.shields.io/badge/On_GitHub_since-May_2025-7F00FF?style=for-the-badge&logo=github)](https://github.com/PRODHOSH)
 
 </div>
 
