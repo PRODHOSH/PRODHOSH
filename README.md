@@ -2,7 +2,7 @@
 
 <img src="./assets/name-heatmap.svg" alt="PRODHOSH spelled out in a contribution heatmap grid" width="100%">
 
-<h3>CTO at Annexra. I build products that 500+ people use every day.</h3>
+<h3>CTO at Annexra. I build products that people use every day.</h3>
 
 <a href="https://prodhosh.me">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Agentic+AI+%26+Fintech;Open+to+Freelance+and+SDE+Roles;Trust+The+Process" alt="Full-Stack Developer. Agentic AI and Fintech. Open to Freelance and SDE Roles." />
