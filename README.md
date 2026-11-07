@@ -175,7 +175,7 @@ I write about building real products, open source and what I learn along the way
 - [hackerRank just open sourced their hiring agent. and it reveals way more than i expected.](https://blog.prodhosh.me/blog/hackerrank-just-open-sourced-their-hiring-agent-and-it-reveals-way-more-than-i-expected)
 - [Why Image Uploads in Next.js Are More Complicated Than They Look](https://blog.prodhosh.me/blog/why-image-uploads-in-nextjs-are-more-complicated-than-they-look)
 - [How to Build a GitHub Profile README That Actually Stands Out](https://blog.prodhosh.me/blog/how-to-build-a-github-profile-readme-that-actually-stands-out)
-- [How I'd Start Contributing to Open Source If I Were a Beginner in 2026](https://blog.prodhosh.me/blog/what-is-open-source-and-how-i-would-start-contributing-if-i-were-a-beginner-today)
+- [How I&#39;d Start Contributing to Open Source If I Were a Beginner in 2026](https://blog.prodhosh.me/blog/what-is-open-source-and-how-i-would-start-contributing-if-i-were-a-beginner-today)
 <!-- BLOG-POST-LIST:END -->
 
 [Read more on blog.prodhosh.me](https://blog.prodhosh.me)
