@@ -171,11 +171,11 @@ Everything here updates on its own. The graph shows a year of contributions, and
 I write about building real products, open source and what I learn along the way.
 
 <!-- BLOG-POST-LIST:START -->
+- [My TV was full of ads. Here&#39;s how I made it calm again.](https://blog.prodhosh.me/blog/my-tv-was-full-of-ads-heres-how-i-made-it-calm-again)
 - [Your AI built you a website. Here&#39;s everything it forgot.](https://blog.prodhosh.me/blog/your-ai-built-you-a-website-heres-everything-it-forgot)
 - [How to Check Any Repo for Hidden Malware Before You Run It](https://blog.prodhosh.me/blog/how-to-use-forkguard-check-any-repo-for-hidden-malware)
 - [Malware Hid in My Old Repos and Git Never Showed It](https://blog.prodhosh.me/blog/malware-hid-in-my-old-repos-polinrider)
 - [hackerRank just open sourced their hiring agent. and it reveals way more than i expected.](https://blog.prodhosh.me/blog/hackerrank-just-open-sourced-their-hiring-agent-and-it-reveals-way-more-than-i-expected)
-- [Why Image Uploads in Next.js Are More Complicated Than They Look](https://blog.prodhosh.me/blog/why-image-uploads-in-nextjs-are-more-complicated-than-they-look)
 <!-- BLOG-POST-LIST:END -->
 
 [Read more on blog.prodhosh.me](https://blog.prodhosh.me)
